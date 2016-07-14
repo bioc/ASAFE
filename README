@@ -1,0 +1,7 @@
+Qian Zhang
+5/24/2016
+
+The vignette for this R package is in the inst/doc/ASAFE.pdf directory and contains an introduction to ASAFE and a paper citation.
+
+The ASAFE webpage http://biostatqian.github.io/ASAFE/ gives another introduction to this repos. In order to cut down on time to build and check this package, this package is a subset of the one in the GitHub repos, containing the same R functions, but fewer data .rda files, man .Rd files, and a shorter vignette. The vignette here does not reproduce the ASAFE paper analyses. 
+
