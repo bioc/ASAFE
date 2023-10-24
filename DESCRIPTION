@@ -1,7 +1,7 @@
 Package: ASAFE
 Type: Package
 Title: Ancestry Specific Allele Frequency Estimation
-Version: 1.27.0
+Version: 1.28.0
 Date: 2016-04-24
 Author: Qian Zhang <qszhang@uw.edu>
 Maintainer: Qian Zhang <qszhang@uw.edu>
